@@ -26,13 +26,8 @@ This project is a simple and user-friendly ZIP Utility built using Python and Tk
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/zip-utility.git
+   git clone https://github.com/operativesoft/zip-utility.git
    cd zip-utility
-   ```
-
-2. Install any required dependencies (if needed):
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
